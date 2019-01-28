@@ -12,7 +12,7 @@ blog notes
 待更新中
 
 ## css3系列
-待更新中
+[css3系列之css动画](https://github.com/yaodebian/blog/issues/1)
 
 ## js系列
 待更新中
