@@ -48,4 +48,4 @@ blog notes
 待更新中
 
 ## 代码调试系列
-待更新中
+[代码调试系列之前端代码调试的几种基本方法](https://github.com/yaodebian/blog/issues/2)
