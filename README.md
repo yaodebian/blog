@@ -70,4 +70,12 @@ blog notes
 
 ## 代码调试系列
 
-[代码调试系列之前端代码调试的几种基本方法](https://github.com/yaodebian/blog/issues/2)
+[代码调试系列之前端代码调试的几种基本方法(article1)](https://github.com/yaodebian/blog/issues/2)
+
+## 日常
+
+[如何在mac上卸载nvm并重新安装(article1)](https://github.com/yaodebian/blog/issues/5)
+
+[如何在mac中安装HomeBrew(article2)](https://github.com/yaodebian/blog/issues/6)
+
+[mac上通过nvm管理nodejs版本时，如何统一配置yarn(article3)](https://github.com/yaodebian/blog/issues/7)
