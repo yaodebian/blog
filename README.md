@@ -21,6 +21,7 @@ blog notes
 ## 前端布局系列(layout series)
 
 [前端布局之——水平垂直居中(article1)](https://github.com/yaodebian/blog/issues/3)
+
 [前端布局之——如何在垂直方向上均匀展示高度相等的栏目(article2)](https://github.com/yaodebian/blog/issues/4)
 
 ## js 系列
