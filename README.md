@@ -8,7 +8,7 @@ blog notes
 
 ## html 系列
 
-待更新中
+[replaced element and non-replaced element（可替换元素和非可替换元素）(article1)](https://github.com/yaodebian/blog/issues/8)
 
 ## css 系列
 
@@ -74,8 +74,8 @@ blog notes
 
 ## 日常
 
-[如何在mac上卸载nvm并重新安装(article1)](https://github.com/yaodebian/blog/issues/5)
+[如何在 mac 上卸载 nvm 并重新安装(article1)](https://github.com/yaodebian/blog/issues/5)
 
-[如何在mac中安装HomeBrew(article2)](https://github.com/yaodebian/blog/issues/6)
+[如何在 mac 中安装 HomeBrew(article2)](https://github.com/yaodebian/blog/issues/6)
 
-[mac上通过nvm管理nodejs版本时，如何统一配置yarn(article3)](https://github.com/yaodebian/blog/issues/7)
+[mac 上通过 nvm 管理 nodejs 版本时，如何统一配置 yarn(article3)](https://github.com/yaodebian/blog/issues/7)
