@@ -52,21 +52,21 @@ blog notes
 
 webpack:
 
-[webpack4 之简单分析 splitChunk.chunks 几种情况：initial、async、all，以及 function (chunk)(article1)](https://github.com/yaodebian/blog/issues/8)
+[webpack4 之简单分析 splitChunk.chunks 几种情况：initial、async、all，以及 function (chunk)(article1)](https://github.com/yaodebian/blog/issues/9)
 
-[webpack4 之 splitChunks.maxAsyncRequests(article2)](https://github.com/yaodebian/blog/issues/9)
+[webpack4 之 splitChunks.maxAsyncRequests(article2)](https://github.com/yaodebian/blog/issues/10)
 
-[webpack4 之 splitChunks.maxInitialRequests(article3)](https://github.com/yaodebian/blog/issues/10)
+[webpack4 之 splitChunks.maxInitialRequests(article3)](https://github.com/yaodebian/blog/issues/11)
 
-[webpack4 之 splitChunks.name(article4)](https://github.com/yaodebian/blog/issues/11)
+[webpack4 之 splitChunks.name(article4)](https://github.com/yaodebian/blog/issues/12)
 
-[webpack4 之 splitChunks.minSize 和 splitChunks.maxSize(article5)](https://github.com/yaodebian/blog/issues/12)
+[webpack4 之 splitChunks.minSize 和 splitChunks.maxSize(article5)](https://github.com/yaodebian/blog/issues/13)
 
-[webpack4 之 splitChunks.cacheGroups(article6)](https://github.com/yaodebian/blog/issues/13)
+[webpack4 之 splitChunks.cacheGroups(article6)](https://github.com/yaodebian/blog/issues/14)
 
-[webpack4 之 splitChunks.minChunks(article7)](https://github.com/yaodebian/blog/issues/14)
+[webpack4 之 splitChunks.minChunks(article7)](https://github.com/yaodebian/blog/issues/15)
 
-[SplitChunksPlugin（webpack 内置插件——将共享代码块单独打包）(article8)](https://github.com/yaodebian/blog/issues/15)
+[SplitChunksPlugin（webpack 内置插件——将共享代码块单独打包）(article8)](https://github.com/yaodebian/blog/issues/16)
 
 ## 预处理器系列
 
@@ -82,9 +82,9 @@ webpack:
 
 ## typescript 系列
 
-[Typescript 笔记之基础知识（1）：强类型语言和弱类型语言、静态语言和动态语言(article1)](https://github.com/yaodebian/blog/issues/16)
+[Typescript 笔记之基础知识（1）：强类型语言和弱类型语言、静态语言和动态语言(article1)](https://github.com/yaodebian/blog/issues/17)
 
-[Typescript 笔记之基础知识（2）：环境搭建(article2)](https://github.com/yaodebian/blog/issues/17)
+[Typescript 笔记之基础知识（2）：环境搭建(article2)](https://github.com/yaodebian/blog/issues/18)
 
 ## 代码调试系列
 
