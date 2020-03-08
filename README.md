@@ -46,7 +46,7 @@ blog notes
 
 ## nodejs 系列
 
-待更新中
+[从 javascript 的角度简单理解 nodejs 中 commonjs 模块规范的导入导出(article1)](https://github.com/yaodebian/blog/issues/19)
 
 ## 打包工具系列
 
