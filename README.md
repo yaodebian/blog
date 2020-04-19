@@ -50,7 +50,9 @@ blog notes
 
 [精读 httpserver（一个简单的 nodejs 本地静态资源服务）源码(article2)](https://github.com/yaodebian/blog/issues/20)
 
-[精读express系列——基础篇(1)(article3)](https://github.com/yaodebian/blog/issues/21)
+[精读 express 系列——基础篇(1)(article3)](https://github.com/yaodebian/blog/issues/21)
+
+[精读 express 系列——基础篇(2)(article4)](https://github.com/yaodebian/blog/issues/22)
 
 ## 打包工具系列
 
