@@ -56,6 +56,8 @@ blog notes
 
 [精读 express 系列——实战篇(1)(article5)](https://github.com/yaodebian/blog/issues/23)
 
+[精读 express 系列——实战篇(2)(article6)](https://github.com/yaodebian/blog/issues/24)
+
 ## 打包工具系列
 
 webpack:
