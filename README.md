@@ -96,6 +96,8 @@ webpack:
 
 [Typescript 笔记之基础知识（2）：环境搭建(article2)](https://github.com/yaodebian/blog/issues/18)
 
+[Typescript 笔记之基础知识（3）：TS 数据类型(article3)](https://github.com/yaodebian/blog/issues/25)
+
 ## 代码调试系列
 
 [代码调试系列之前端代码调试的几种基本方法(article1)](https://github.com/yaodebian/blog/issues/2)
