@@ -26,7 +26,7 @@ blog notes
 
 ## js 系列
 
-待更新中
+[原生 js 如何获取宽高(article1)](https://github.com/yaodebian/blog/issues/26)
 
 ## 前端库系列
 
