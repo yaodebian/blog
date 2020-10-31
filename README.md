@@ -28,6 +28,8 @@ blog notes
 
 [原生 js 如何获取宽高(article1)](https://github.com/yaodebian/blog/issues/26)
 
+[有趣的 Destructuring(article2)](https://github.com/yaodebian/blog/issues/27)
+
 ## 前端库系列
 
 待更新中
