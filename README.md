@@ -30,6 +30,8 @@ blog notes
 
 [有趣的 Destructuring(article2)](https://github.com/yaodebian/blog/issues/27)
 
+[原生 js 如何获取定位(article3)](https://github.com/yaodebian/blog/issues/28)
+
 ## 前端库系列
 
 待更新中
